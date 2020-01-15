@@ -20,3 +20,9 @@
 .App-link {
   color: #09d3ac;
 }
+
+.App-title {
+  font-family: 'Bigelow Rules', cursive;
+  font-size: 75px;
+  color: #0ccac4;
+}
